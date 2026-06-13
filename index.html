@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Check Mate</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="crown">♛</div>
+      <h1 class="site-title">Check Mate</h1>
+      <p class="site-tagline">Research. Strategy. Truth.</p>
+    </div>
+    <div class="board-stripe"></div>
+  </header>
+
+  <main class="site-main">
+    <div id="article-grid" class="article-grid">
+      <p class="loading">Loading articles...</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="board-stripe"></div>
+    <p>Check Mate &mdash; <span id="year"></span></p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    fetch('articles/manifest.json')
+      .then(r => r.json())
+      .then(articles => {
+        const grid = document.getElementById('article-grid');
+        if (!articles.length) {
+          grid.innerHTML = '<p class="empty">No articles yet. The queen is thinking.</p>';
+          return;
+        }
+        grid.innerHTML = articles
+          .sort((a, b) => new Date(b.date) - new Date(a.date))
+          .map(a => `
+            <article class="card">
+              <a href="articles/${a.slug}.html" class="card-link">
+                <div class="card-inner">
+                  <time class="card-date">${formatDate(a.date)}</time>
+                  <h2 class="card-title">${a.title}</h2>
+                  <p class="card-excerpt">${a.excerpt}</p>
+                  <span class="card-read">Read &rarr;</span>
+                </div>
+              </a>
+            </article>
+          `).join('');
+      })
+      .catch(() => {
+        document.getElementById('article-grid').innerHTML =
+          '<p class="empty">No articles yet. The queen is thinking.</p>';
+      });
+
+    function formatDate(d) {
+      return new Date(d).toLocaleDateString('en-US', {
+        year: 'numeric', month: 'long', day: 'numeric'
+      });
+    }
+  </script>
+</body>
+</html>
