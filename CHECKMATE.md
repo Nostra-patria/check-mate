@@ -21,7 +21,7 @@ check-mate/
 ├── article.html        # Article reader — fetches markdown, renders with marked.js
 ├── about.html          # About page
 ├── css/
-│   └── style.css       # Dark editorial design
+│   └── style.css       # Chess queen aesthetic — cream/black/gold
 ├── js/
 │   ├── feed.js         # Homepage article card renderer
 │   └── reader.js       # Markdown parser + article renderer
@@ -38,17 +38,21 @@ check-mate/
 ## Publishing flow
 
 ```
-Alex writes draft → content/drafts/ (visible at :1980, NOT in git)
+Alex writes draft
+→ /workspace/sandbox/content/drafts/<slug>.md
+→ zichtbaar op :1980/content/drafts/<slug>.md (LOKAAL, niet in git)
         ↓
-Ron reviews at :1980
+Ron reviewt op :1980
         ↓
-Ron says "publish X"
+Ron: "publish <slug>"
         ↓
-Alex runs: bash /workspace/scripts/checkmate-publish.sh <slug>
+bash /workspace/scripts/checkmate-publish.sh <slug>
         ↓
-Article moves to content/articles/, index.json updated, pushed to GitHub
+Draft → content/articles/<slug>.md in check-mate repo
+index.json bijgewerkt → commit → push naar GitHub
         ↓
-GitHub Pages deploys (1–2 minutes)
+GitHub Pages deployt (1–2 minuten)
+live op: https://nostra-patria.github.io/check-mate/
 ```
 
 ---
@@ -72,7 +76,8 @@ file: "articles/the-article-slug.md"
 Article body in plain Markdown...
 ```
 
-Save to: `content/drafts/the-article-slug.md`
+Save to: `/workspace/sandbox/content/drafts/the-article-slug.md`
+(= zichtbaar op `:1980`, gitignored, nooit automatisch online)
 
 ---
 
