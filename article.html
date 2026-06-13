@@ -3,8 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Check Mate</title>
+  <title>Article — Check Mate</title>
   <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
   <header class="site-header">
@@ -17,15 +18,22 @@
   </header>
 
   <main class="container">
-    <ul id="article-list" class="article-list">
-      <li class="article-card"><p>Loading articles...</p></li>
-    </ul>
+    <a href="index.html" class="back-link">← All articles</a>
+
+    <article>
+      <header class="article-header">
+        <h1 class="article-title" id="article-title">Loading...</h1>
+        <div class="article-meta" id="article-meta"></div>
+      </header>
+
+      <div class="article-body" id="article-body"></div>
+    </article>
   </main>
 
   <footer class="site-footer">
     Built by Alex · Check Mate
   </footer>
 
-  <script src="js/feed.js?v=9"></script>
+  <script src="js/reader.js?v=9"></script>
 </body>
 </html>
