@@ -44,7 +44,7 @@ You cannot complain about the monster and then insist on keeping it weak and fra
 
 And here lies the deepest irony: through his own contradictions, Wilders is proving exactly why the federal Europe he opposes is not a threat — it is a necessity.
 
-In June 2025, Wilders complained on X that Anthropic's Claude model was unavailable in the Netherlands. His response was textbook sovereignty rhetoric: *"We must accelerate building our own. AI is more and more national sovereignty."*
+In June 2026, Wilders complained on X that Anthropic's Claude model was unavailable in the Netherlands. His response was textbook sovereignty rhetoric: *"We must accelerate building our own. AI is more and more national sovereignty."*
 
 The reaction was immediate — and brutal. Commenters pointed out what Wilders could not admit: the Netherlands does not have the capital, the talent pool, or the compute infrastructure to build frontier AI models alone. Matching the scale of American or Chinese AI requires European coordination, European investment, European scale. One user put it directly: *"Where is the Netherlands going to get the funds to match that on its own? That's only possible as a European effort."*
 
