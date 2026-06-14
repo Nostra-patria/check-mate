@@ -10,75 +10,47 @@ tags: [geert-wilders, mario-draghi, european-union, netherlands, federal-europe,
 
 # The Monster He Built
 
-Geert Wilders has a name for the European Union. He calls it a **monster** — a creature that "always wants more power," that cannot be trusted with taxation, that must be stopped before it swallows the sovereignty of its member states.
-
-It is a good line. It plays well at rallies. It won him 23 percent of the Dutch vote and 37 seats in parliament.
-
-But here is the thing about monsters: the more Geert Wilders fights this one, the more he proves it should exist.
+> How Geert Wilders became the strongest argument for the federal Europe he despises
 
 ## The Diagnosis
 
-In September 2024, former European Central Bank president Mario Draghi delivered a report that should have reframed every European election.
+Geert Wilders calls the European Union a "monster" — a hungry, power-hungry beast in Brussels that can never get enough. He has built his entire career on fighting it: less Europe, more sovereignty, a Netherlands that is once again master in its own house.
 
-The diagnosis was brutal. The GDP gap between Europe and the United States had widened from 15 percent to **30 percent** since 2002. Europe's innovation ecosystem, fragmented across 27 national markets, could not compete with the unified scale of the US or China. To close the gap, Europe needed **€750 to €800 billion** in additional annual investment — roughly 4.4 to 4.7 percent of EU GDP.
+Then reality hit.
 
-Draghi's core argument was simple: the Netherlands cannot build a world-class AI sector alone. No single European nation can. A functioning European capital market would need something like **€11,000 billion** in pooled savings to work. That requires integration. That requires what Wilders calls a monster.
+In September 2024, Mario Draghi delivered his report on European competitiveness. The conclusion was sobering: Europe must invest an additional €750 to €800 billion per year in defence, innovation, energy, and industrial capacity — or fall irreversibly behind the United States and China. That kind of money will not materialise if every member state continues to cherry-pick, negotiate opt-outs, and go it alone.
 
-## The Monster
+## The Monster He Feeds
 
-Wilders did not read Draghi's report and reconsider. He doubled down.
+Wilders' response? Opt-outs. Fewer obligations. Less money to Brussels. More national freedom.
 
-In his telling, the EU is not a solution to the scale problem. It is the problem itself. He rejects EU-wide taxation. He rejects "ever-greater political union." He wants to "give the Netherlands back to the Dutch."
-
-For years, his Party for Freedom (PVV) campaigned on **Nexit** — a Dutch departure from the European Union modeled on Brexit. It campaigned on leaving the euro. It campaigned on banning the Koran.
-
-These were not side policies. They were the brand. And the brand worked.
-
-## The Confession
-
-Then Wilders won. And something remarkable happened.
-
-To enter government, he abandoned almost everything. The Koran ban: gone. The euro exit: gone. **Nexit itself: gone.** According to Dutch press reports, Wilders was prepared to sacrifice "just about everything" — including his own chance at becoming Prime Minister — in exchange for one thing: a stricter immigration policy.
-
-Let that sink in. The man who built a career on leaving Europe gave up the exit to get a coalition deal.
-
-Wilders insists he did not "put water into his wine." But the wine changed. The Nexit party is now a governing party that stayed inside the EU, that accepts the euro, that merely asks Brussels for permission to be stricter on asylum.
+Exactly the recipe Draghi warned against. While the world organises itself into power blocs — America First, China's state capitalism, a revanchist Russia — Wilders chooses fragmentation. He wants to tame the monster by starving it.
 
 That is not strength. That is surrender dressed as strategy.
 
-## The Opt-Out Illusion
+## The Confession
 
-The coalition agreement Wilders signed does include one bold clause: the Netherlands will implement its "strictest-ever" asylum policy by **opting out of European rules.**
+In practice, Wilders has already confessed that pure nationalism no longer works. He dropped the hard Nexit. He accepted coalition compromises. He now talks about "opt-outs" instead of full exit. Each retreat is a quiet admission that the Netherlands cannot solve its biggest problems — migration, defence, trade, energy security — in splendid isolation.
 
-It sounds defiant. It is actually desperate.
-
-The Netherlands is an EU member and a Schengen member. It does not have hard borders with its neighbors. Its economy is woven into the single market. Its currency is the euro. An "opt-out" on asylum policy within this framework is not independence. It is a request for exceptions while keeping the benefits — a demand to have the cake, eat it, and complain about the recipe.
-
-Wilders' own policy shows why this does not work. Year-on-year net migration to the Netherlands more than doubled since 2016. It rose by over 150,000 from 2021 to 2022 alone. These are not numbers a single country controls when it shares open borders with 26 others. The very problem Wilders claims to solve — uncontrolled migration — is a **cross-border phenomenon** that requires cross-border coordination.
-
-He wants to solve a European problem with Dutch nationalism. The math does not add up.
+The wine has changed. The rhetoric remains the same.
 
 ## The Scale Trap
 
-Draghi's report contained a warning that Wilders never answered. In a world of US and Chinese scale, any European nation acting alone risks becoming what one commentator called it: a **"vassal of the United States."**
+This is the central paradox of modern nationalism in Europe. The problems Wilders rightly identifies (mass migration, loss of control, economic vulnerability) are largely the result of globalisation and scale. Yet his proposed solution — weakening the EU while staying inside it — does not restore control. It merely ensures that decisions are still made at a supranational level, only now with less Dutch influence and less coherence.
 
-The irony is extraordinary. Wilders' nationalism is sold as sovereignty. But applied consistently, it leads to the opposite: a small, open economy with no leverage, no scale, and no voice in global trade negotiations. The Netherlands would not be independent. It would be dependent — on Washington, on Beijing, on whoever offers the next bilateral deal.
+You cannot complain about the monster and then insist on keeping it weak and fragmented. A weak EU does not protect you from global forces; it leaves you more exposed to them.
 
-Wilders abandoned Nexit because, at some level, even he understood this. A Netherlands outside the EU is a Netherlands with 17 million consumers negotiating trade terms against 330 million Americans and 1.4 billion Chinese. That is not sovereignty. That is irrelevance.
+## Unintentional Proof
 
-So he stayed in. And now he demands the EU become weaker while he stays inside it.
+And here lies the deepest irony: through his own contradictions, Wilders is proving exactly why the federal Europe he opposes is not a threat — it is a necessity.
 
-## The Unintentional Proof
+Every time he is forced to compromise, every time he must admit that the Netherlands cannot go it alone on defence spending, asylum policy, or industrial subsidies, he demonstrates the limits of the nation-state in the 21st century. He is, unintentionally, becoming the best advocate for the very integration he has spent two decades fighting.
 
-Here is the paradox that makes Wilders useful to his enemies.
+## The Choice
 
-Every time he calls the EU a monster, he reminds voters why the monster exists. Every time he demands opt-outs, he demonstrates why uniform rules are necessary. Every time he abandoned Nexit, he proved that even he does not believe the Netherlands can survive alone.
+Europe faces a binary future: deeper coordination or gradual irrelevance. Wilders built his career on the promise of a free and sovereign Netherlands. What he is actually constructing — one watered-down promise, one abandoned Nexit, one furious speech against the "monster" at a time — is the strongest possible case for more Europe.
 
-Draghi asked for €800 billion in investment and a federal capital market because 27 fragmented nations cannot compete. Wilders, by weakening the union from within, makes that fragmentation worse. He is not defeating the monster. He is feeding it evidence.
-
-The nationalist who claims to hate Brussels has become its most effective advertiser. He shows voters, through his own contradictions, exactly why the federal Europe he opposes is not a threat. It is a necessity.
-
-Wilders built his career on the promise of a free Netherlands. What he is actually building — one opt-out, one abandoned Nexit, one "monster" speech at a time — is the case for more Europe.
+The monster he built is not in Brussels. It is the gap between his rhetoric and geopolitical reality.
 
 ---
 
