@@ -86,7 +86,7 @@ async function loadArticle() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const text = await res.text();
 
-    const { meta, body } = parseFrontmatter(text);
+    const { meta, body } = parseFrontmatter(text.replace(/\r\n/g, '\n'));
 
     document.title = `${meta.title || 'Untitled'} — Check Mate`;
     titleEl.textContent = meta.title || 'Untitled';
