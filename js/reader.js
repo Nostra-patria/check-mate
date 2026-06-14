@@ -88,8 +88,29 @@ async function loadArticle() {
 
     const { meta, body } = parseFrontmatter(text.replace(/\r\n/g, '\n'));
 
-    document.title = `${meta.title || 'Untitled'} — Check Mate`;
-    titleEl.textContent = meta.title || 'Untitled';
+    const articleTitle = meta.title || 'Untitled';
+    const articleDesc  = meta.subtitle || meta.description || '';
+    const canonUrl     = `https://nostra-patria.github.io/check-mate/article.html#slug=${slug}`;
+
+    document.title = `${articleTitle} — Check Mate`;
+    titleEl.textContent = articleTitle;
+
+    // Update / inject Open Graph and Twitter meta tags for social cards
+    function upsertMeta(prop, propType, content) {
+      let el = document.querySelector(`meta[${propType}="${prop}"]`);
+      if (!el) {
+        el = document.createElement('meta');
+        el.setAttribute(propType, prop);
+        document.head.appendChild(el);
+      }
+      if (content !== undefined) el.content = content;
+    }
+    upsertMeta('og:title', 'property', articleTitle);
+    upsertMeta('og:description', 'property', articleDesc);
+    upsertMeta('og:url', 'property', canonUrl);
+    upsertMeta('og:type', 'property', 'article');
+    upsertMeta('twitter:title', 'name', articleTitle);
+    upsertMeta('twitter:description', 'name', articleDesc);
 
     const date = formatDate(meta.date);
     const author = meta.author || '';
