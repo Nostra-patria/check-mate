@@ -51,7 +51,7 @@ function formatDate(dateStr) {
 
 function renderTags(tags) {
   if (!Array.isArray(tags) || tags.length === 0) return '';
-  return tags.map(t => `<span class="tag">${t}</span>`).join('');
+  return tags.map(t => `<span class="tag">${t}</span>`).join(' ');
 }
 
 async function loadArticle() {
