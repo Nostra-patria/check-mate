@@ -1,3 +1,13 @@
+---
+title: "The Open Sky Lie"
+date: "2026-06-14"
+author: "Check Mate"
+subtitle: "How a Kremlin accusation became a headline in the Netherlands — and why the Baltic states never opened their airspace"
+tags: ["disinformation", "frontnieuws", "kremlin", "baltic-states", "estonia", "latvia", "lithuania", "finland", "ukraine", "drones", "nato", "electronic-warfare", "russia"]
+slug: "the-open-sky-lie"
+featured: false
+---
+
 # The Open Sky Lie
 
 ## How a Kremlin Accusation Became a Headline in the Netherlands
