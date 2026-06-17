@@ -272,6 +272,39 @@ body {
   color: inherit;
 }
 
+/* ── Tables ── */
+.article-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.article-body th,
+.article-body td {
+  text-align: left;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--border);
+  vertical-align: top;
+}
+
+.article-body th {
+  background: var(--black);
+  color: var(--cream);
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.article-body tr:nth-child(even) td {
+  background: rgba(201,168,68,0.05);
+}
+
 /* ── Footer ── */
 .site-footer {
   background: var(--black);
