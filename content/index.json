@@ -22,7 +22,9 @@
       "budget",
       "economy"
     ],
-    "file": "articles/draghi-versus-bardella.md"
+    "file": "articles/draghi-versus-bardella.md",
+    "type": "reference",
+    "featured": false
   },
   {
     "slug": "the-kremlin-candidate",

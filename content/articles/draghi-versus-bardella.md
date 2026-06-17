@@ -3,6 +3,7 @@ title: "Draghi versus Bardella: The Competitiveness Question"
 subtitle: "A comparative record of the EU federalist roadmap and the Rassemblement National's 2027 platform"
 date: "2026-06-17"
 slug: "draghi-versus-bardella"
+type: reference
 featured: false
 tags:
   - mario-draghi
