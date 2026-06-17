@@ -74,19 +74,17 @@ The report's central argument is that incremental reform is insufficient. Draghi
 4. **Streamlined decision-making** via expanded qualified majority voting in foreign policy, taxation, and enlargement
 5. **Accelerated enlargement** for Ukraine and the Western Balkans, coupled with transitional arrangements
 
-#### 2.4 Federal Implications
+#### 2.4 Federal Implications and Political Reception
 
-Draghi does not use the term "federal Europe" in the report. However, each of the major recommendations — joint debt instruments, EU-level defence procurement, a harmonised corporate tax base, and QMV in taxation — presupposes institutional structures that exceed the current level of EU integration. Several member-state governments, including Hungary under Viktor Orbán, have opposed QMV expansion. At the European Council of December 2024, Orbán threatened to veto the opening of accession talks with Ukraine unless QMV expansion was dropped from the agenda. Other member states, including the Netherlands and Sweden, have also expressed reservations about joint borrowing instruments and QMV in taxation, arguing that these would reduce national fiscal autonomy.
+Draghi does not use the term "federal Europe" in the report. However, each of the major recommendations — joint debt instruments, EU-level defence procurement, a harmonised corporate tax base, and QMV in taxation — presupposes institutional structures that exceed the current level of EU integration.
 
-**Sources:** European Commission, "The Future of European Competitiveness" (Draghi report), July 2024; European Council conclusions, December 2024; Politico Europe, December 2024.
-
-#### 2.5 Critiques and Political Feasibility
-
-The Draghi report has attracted criticism from multiple angles. Several member-state governments, including the Netherlands, Sweden, and Denmark, have opposed its call for joint borrowing and QMV expansion in taxation, arguing that these would reduce national fiscal autonomy. At the European Council of December 2024, Hungary's Viktor Orbán threatened to veto the opening of accession talks with Ukraine unless QMV expansion was removed from the agenda.
+The report has attracted political opposition from multiple member-state governments. At the European Council of December 2024, Hungary's Viktor Orbán threatened to veto the opening of accession talks with Ukraine unless QMV expansion was dropped from the agenda. The Netherlands, Sweden, and Denmark have also expressed reservations about joint borrowing instruments and QMV in taxation, arguing that these would reduce national fiscal autonomy.
 
 Some economists have questioned whether deeper centralisation is the appropriate response to Europe's competitiveness gap. The report assumes that fragmentation is the primary cause of underperformance; critics note that the EU's most competitive regions (parts of Germany, the Netherlands, Denmark) are not necessarily the most integrated, and that some of the gap with the United States reflects structural factors — demographics, energy endowment, and venture-capital depth — that institutional integration alone cannot resolve.
 
 The report was commissioned by the European Commission and produced by a figure with extensive experience in EU institutional leadership. Critics from both left and right have noted that this institutional framing may predispose the report toward federal solutions rather than regulatory or market-based alternatives.
+
+**Sources:** European Commission, "The Future of European Competitiveness" (Draghi report), July 2024; European Council conclusions, December 2024; Politico Europe, December 2024.
 
 ---
 
