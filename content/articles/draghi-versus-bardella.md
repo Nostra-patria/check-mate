@@ -56,13 +56,13 @@ The European Commission appointed Mario Draghi — who served as Prime Minister 
 
 #### 2.2 Key Findings
 
-| Finding | Value | Page in Report |
-|---------|-------|----------------|
+| Metric | Value | Source |
+|--------|-------|--------|
 | Annual investment gap | EUR 750–800 billion | p. 12 |
 | EU GDP per capita vs. US | 30% below | p. 8 |
-| Annual defence investment shortfall | EUR 150–200 billion | p. 150 approx. |
-| Energy cost differential (industrial) | 2–3x higher than US | various |
-| EU defence spending efficiency | Lower than sum of national budgets due to fragmentation | various |
+| Defence investment shortfall | EUR 150–200 billion | p. 150 approx. |
+| Industrial energy cost vs. US | 2–3× higher | various |
+| Defence spending efficiency | Below aggregate budgets (fragmentation) | various |
 
 #### 2.3 Core Recommendations
 
