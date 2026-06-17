@@ -52,11 +52,10 @@ The European Commission appointed Mario Draghi — former Prime Minister of Ital
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Annual investment gap | EUR 750–800 billion | p. 12 |
-| EU GDP per capita vs. US | 30% below | p. 8 |
-| Defence investment shortfall | EUR 150–200 billion | p. 150 approx. |
-| Industrial energy cost vs. US | 2–3× higher | various |
-| Defence spending efficiency | Below aggregate budgets due to fragmentation | various |
+| Annual investment gap | EUR 750–800 bn | p. 12 |
+| EU vs. US GDP per capita | 30% below | p. 8 |
+| Defence shortfall | EUR 150–200 bn | p. 150 approx. |
+| EU vs. US industrial energy cost | 2–3× higher | various |
 
 #### 2.3 Core Recommendations
 
@@ -88,13 +87,13 @@ Multiple independent economic institutions have evaluated the RN program. Their 
 
 #### 3.2 Budget and Trade Positions
 
-| Position | Description | Source period |
-|----------|-------------|---------------|
-| EU budget contribution | Reduce France's net contribution by ~50% (EUR 2–3 billion annually) | EurActiv, June 2024; reiterated June 2026 |
-| Schengen | Reinstate national border controls | Multiple interviews, 2024–2026 |
-| Free trade | Moratorium on new EU free trade agreements | Livret économique, September 2024 |
-| Ukraine accession | Block Ukraine's accession to the EU | Repeated statements, 2024–2026 |
-| "Plan Manger Français" | Require 80% French products in school canteens | Livret économique, 2024 |
+| Position | Description |
+|----------|-------------|
+| EU budget contribution | Cut France's net contribution by ~50% (EUR 2–3 bn annually) |
+| Schengen | Reinstate national border controls |
+| Free trade | Moratorium on new EU free trade agreements |
+| Ukraine accession | Block Ukraine's accession to the EU |
+| "Plan Manger Français" | 80% French products required in school canteens |
 
 #### 3.3 Tax and Spending Promises
 
@@ -108,13 +107,13 @@ The RN has not published a fully costed fiscal roadmap. Independent reviewers ha
 
 #### 3.4 Independent Assessments of Fiscal Feasibility
 
-| Institution | Assessment | Date |
-|-------------|-----------|------|
-| Asteres (via Lessentieldeleco) | Public deficit to 6.4% of GDP; public debt to exceed 117% of GDP within the term | 2024 |
-| Allianz Research | Revenue proposals cover "only a fraction" of promised spending | 2024 |
-| Institut Montaigne + Fondation Jean-Jaurès (via La Croix) | Program described as "right-extreme in tone, costly, and inconsistent" | September 2024 |
-| OFCE | Independent evaluation of RN legislative program | June 2024 |
-| Catherine Lubochinsky, Cercle des Economistes (via Challenges) | RN funding ambitions "unrealistic" | 2024 |
+| Institution | Assessment |
+|-------------|-----------|
+| Asteres, 2024 | Public deficit to 6.4% of GDP; public debt to exceed 117% within the term |
+| Allianz Research, 2024 | Revenue proposals cover "only a fraction" of promised spending |
+| Institut Montaigne + Jean-Jaurès, Sept. 2024 | Program described as "costly and inconsistent" |
+| OFCE, June 2024 | Independent evaluation: program fiscally expansionary |
+| Lubochinsky, Cercle des Economistes, 2024 | RN funding ambitions "unrealistic" |
 
 The European Commission's Stability and Growth Pact requires deficits below 3% of GDP. A deficit of 6.4% would place France in breach of these criteria.
 
@@ -138,13 +137,25 @@ The European Commission's Stability and Growth Pact requires deficits below 3% o
 
 ### 4. Five Fault Lines
 
-| Fault Line | Draghi Position | Bardella Position |
-|-----------|-----------------|-------------------|
-| **1. Budget and investment** | Joint EU borrowing for strategic investment; EUR 750–800bn annual gap must be closed collectively | Cut France's net EU contribution by 50%; no joint borrowing commitment |
-| **2. Defence** | EU-level joint procurement and shared R&D; EUR 150–200bn annual shortfall requires collective scaling | National procurement preference; French deterrent strictly national; no European nuclear-sharing |
-| **3. Single market and borders** | Complete digital, energy, and capital markets union; remove internal barriers | Reinstate national Schengen border controls; exit EU electricity market mechanism |
-| **4. Enlargement** | Accelerate Ukraine and Western Balkans accession before 2027 | Block Ukraine accession indefinitely; slow Balkans process |
-| **5. Decision-making** | Expand QMV to foreign policy, taxation, and enlargement | Preserve national veto in all areas |
+**1. Budget and investment**
+- *Draghi:* Joint EU borrowing; close EUR 750–800 bn annual gap collectively
+- *Bardella:* Cut France's net EU contribution by 50%; oppose joint borrowing
+
+**2. Defence**
+- *Draghi:* EU-level joint procurement and shared R&D; close EUR 150–200 bn annual shortfall
+- *Bardella:* National procurement only; French deterrent strictly national
+
+**3. Single market and borders**
+- *Draghi:* Complete digital, energy, and capital markets union; remove internal barriers
+- *Bardella:* Reinstate Schengen border controls; exit EU electricity market mechanism
+
+**4. Enlargement**
+- *Draghi:* Accelerate Ukraine and Western Balkans accession before 2027
+- *Bardella:* Block Ukraine accession indefinitely; slow Balkans process
+
+**5. Decision-making**
+- *Draghi:* Expand QMV to foreign policy, taxation, and enlargement
+- *Bardella:* Preserve national veto in all areas
 
 Each fault line marks a policy area where the Draghi and Bardella positions prescribe opposite institutional directions. The Draghi report argues that fragmentation impedes European competitiveness relative to the United States and China. The Bardella platform proposes greater national autonomy in budget, borders, and decision-making. Whether fragmentation or autonomy is preferable is a normative question; this document records only that the two platforms point in opposite directions.
 
@@ -156,11 +167,17 @@ Each fault line marks a policy area where the Draghi and Bardella positions pres
 
 Within the Rassemblement National, a documented divergence exists between Marine Le Pen's 2022 platform and Jordan Bardella's 2024–2026 restatements:
 
-| Issue | Le Pen (2022) | Bardella (2024–2026) |
-|-------|---------------|----------------------|
-| Retirement age | 60, unconditionally | 60 only for long careers; conditional on "budget audit" |
-| Economic orientation | "Social sovereignism" | "Liberal sovereignism"; reportedly viewed by Le Pen allies as more market-oriented (Challenges, 2024) |
-| Relationship with employers' organisations | Suspicious | Active outreach: Medef lunch (April 2026), Ethic network, "pacte de confiance" letter |
+**Retirement age**
+- *Le Pen (2022):* 60, unconditionally
+- *Bardella (2024–2026):* 60 only for long careers; conditional on "budget audit"
+
+**Economic orientation**
+- *Le Pen (2022):* "Social sovereignism"
+- *Bardella (2024–2026):* "Liberal sovereignism" — reportedly viewed by Le Pen allies as more market-oriented *(Challenges, 2024)*
+
+**Relations with employers**
+- *Le Pen (2022):* Suspicious
+- *Bardella (2024–2026):* Active outreach — Medef lunch (April 2026), Ethic network, "pacte de confiance" letter
 
 This divergence shows that the RN's economic platform is not fixed. It has shifted from a more statist orientation under Le Pen to a more market-friendly pitch under Bardella — while retaining the same headline promises (VAT cuts, tax relief, budget clawback). The contradiction between a market-facing pitch to business and a populist pitch to voters creates the perpetual revision cycle documented by Les Echos.
 
