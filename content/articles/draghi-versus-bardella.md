@@ -27,7 +27,7 @@ tags:
 
 ## The Competitiveness Question
 
-**Scope and methodology.** This document compares two publicly documented positions on European economic integration: the 2024 Draghi report and the 2024–2026 economic platform of Jordan Bardella and the Rassemblement National. For the financial history of the Rassemblement National's relationship with Russian lending institutions, see also: *The FCRB Transaction* (Check Mate reference document, 2026). All claims about either position are drawn from the original documents, official statements, and independent institutional assessments. This record does not assert that one position is superior; it identifies where the two positions point in opposite directions and records externally produced evaluations of fiscal feasibility. Normative judgments are left to the reader.
+**Scope and methodology.** This document compares two publicly documented positions on European economic integration: the 2024 Draghi report and the 2024–2026 economic platform of Jordan Bardella and the Rassemblement National. For a chronological record of the Rassemblement National's foreign lending history, see also: *The FCRB Transaction* (Check Mate reference document, 2026). All claims about either position are drawn from the original documents, official statements, and independent institutional assessments. This record does not assert that one position is superior; it identifies where the two positions point in opposite directions and records externally produced evaluations of fiscal feasibility. Normative judgments are left to the reader.
 
 ---
 
@@ -80,6 +80,14 @@ Draghi does not use the term "federal Europe" in the report. However, each of th
 
 **Sources:** European Commission, "The Future of European Competitiveness" (Draghi report), July 2024; European Council conclusions, December 2024; Politico Europe, December 2024.
 
+#### 2.5 Critiques and Political Feasibility
+
+The Draghi report has attracted criticism from multiple angles. Several member-state governments, including the Netherlands, Sweden, and Denmark, have opposed its call for joint borrowing and QMV expansion in taxation, arguing that these would reduce national fiscal autonomy. At the European Council of December 2024, Hungary's Viktor Orbán threatened to veto the opening of accession talks with Ukraine unless QMV expansion was removed from the agenda.
+
+Some economists have questioned whether deeper centralisation is the appropriate response to Europe's competitiveness gap. The report assumes that fragmentation is the primary cause of underperformance; critics note that the EU's most competitive regions (parts of Germany, the Netherlands, Denmark) are not necessarily the most integrated, and that some of the gap with the United States reflects structural factors — demographics, energy endowment, and venture-capital depth — that institutional integration alone cannot resolve.
+
+The report was commissioned by the European Commission and produced by a figure with extensive experience in EU institutional leadership. Critics from both left and right have noted that this institutional framing may predispose the report toward federal solutions rather than regulatory or market-based alternatives.
+
 ---
 
 ### 3. The Bardella Platform
@@ -124,7 +132,9 @@ Multiple independent institutions have assessed the RN's economic program. Their
 
 The European Commission's Stability and Growth Pact requires member states to maintain deficits below 3% of GDP and debt below 60% of GDP (with exceptions). A deficit of 6.4% would place France in breach of these criteria.
 
-**Note on methodology:** The RN has not published a detailed, independently costed fiscal roadmap. All deficit and debt projections above are derived from external economic institutions analysing the RN's published promises. The party disputes some of these assessments, arguing that fraud-combat and administrative savings would offset a portion of the costs.
+**Note on methodology:** The RN has not published a detailed, independently costed fiscal roadmap. All deficit and debt projections above are derived from external economic institutions analysing the RN's published promises.
+
+**The RN's response.** The party disputes these assessments on several grounds. First, it argues that administrative savings and fraud-combat measures would offset a portion of the costs. Second, it contends that reducing France's net EU budget contribution (EUR 2–3 billion annually) and abolishing unspecified agencies would free resources. Third, it maintains that supply-side effects — increased economic activity from VAT cuts and employer charge relief — would partially compensate for revenue loss. Fourth, the party notes that France's public debt already stood at approximately 111% of GDP and its deficit above 5% in 2024 under the Macron/Barnier government, suggesting that fiscal deterioration is not unique to RN proposals. These rebuttals have not been independently modelled; they are recorded here as the party's stated position.
 
 #### 3.5 Potential Tensions (Externally Identified)
 
@@ -218,12 +228,12 @@ This divergence is relevant because it shows that the RN's economic platform is 
 14. Institut Montaigne and Fondation Jean-Jaurès (via La Croix), joint assessment, September 2024.
 15. Catherine Lubochinsky, Cercle des Economistes (via Challenges), assessment of RN funding feasibility, 2024.
 
-#### Comparative Coverage
+#### Related Documents
 
-16. Check Mate, "The Monster He Built: How Geert Wilders Proves the Case for Federal Europe" (budget/free-riding analysis), 14 June 2026.
-17. Check Mate, "The Kremlin Candidate" (RN defence and Ukraine positions), 17 June 2026.
-18. Check Mate, "The Dutch Pincer" (EU obstruction patterns), 12 June 2026.
-19. Check Mate, "The FCRB Transaction" (RN financial history), 17 June 2026.
+16. Check Mate, "The Monster He Built: How Geert Wilders Proves the Case for Federal Europe" (EU budget and free-riding dynamics), 14 June 2026.
+17. Check Mate, "The Kremlin Candidate" (RN 2027 candidacy, defence and Ukraine positions), 17 June 2026.
+18. Check Mate, "The Dutch Pincer" (parliamentary obstruction of EU integration), 12 June 2026.
+19. Check Mate, "The FCRB Transaction" (chronology of RN foreign lending), 17 June 2026.
 
 ---
 
